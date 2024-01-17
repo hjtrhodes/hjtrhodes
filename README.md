@@ -9,17 +9,16 @@
 
 **💻 Current Languages and Tools**
 
-//Syntax:
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
-    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_azure.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
-
-
 <div style="display: flex; align-items: center;">
    
-   PYTHON
+   <span title="Python">
+       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
+   </span>
 
-   JAVASCRIPT
-
+   <span title="JavaScript">
+       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" alt="Javascript Logo" width="50" height="50" style="margin-right: 10px;" />
+   </span>
+   
    NODE
 
    REACT
