@@ -5,4 +5,11 @@
 - 📫 Feel free to [drop me a message](mailto:hjtrhodes@gmail.com) 😃
 
    [My Portfolio](https://hrhodes.co.uk)   |   [Linkedin](https://www.linkedin.com/in/harry-rhodes851b3663)   |   [CV](https://docs.google.com/document/d/1WDQ-0gyIWZ4Quz8XPf9fVCJSYeT4G6iH9QUZh5Qx7nI/edit?usp=sharing)
+---
+
+🧰 Current Languages and Tools
+
+---
+
+
 
