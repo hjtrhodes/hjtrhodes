@@ -12,29 +12,24 @@
 <div style="display: flex; align-items: center;">
    
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
-<br>
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" alt="Javascript Logo" width="50" height="50" style="margin-right: 10px;" />
-   
 NODE  
 REACT  
 NPM  
-
-<br />
+<br>
 
 POSTGRES  
 MYSQL  
 MONGODB  
 CSS  
 GIT  
-
-<br />
+<br>
 
 TAILWIND  
 JEST  
 CYPRESS  
 FLASK  
 EXPRESS 
-   
 </div>
 
 ---
