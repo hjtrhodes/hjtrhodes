@@ -11,7 +11,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
-    <img src="[https://fontawesome.com/icons/html5?f=brands&s=solid](https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667)https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
+    <img src="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
       
 </div>
 ---
