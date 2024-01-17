@@ -10,13 +10,12 @@
 **💻 Current Languages and Tools**
 
 //Syntax:
-   GITHUB
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
-   AZURE
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_azure.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
 
 
 <div style="display: flex; align-items: center;">
+   
    PYTHON
 
    JAVASCRIPT
