@@ -13,6 +13,7 @@
    
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" alt="Javascript Logo" width="50" height="50" style="margin-right: 10px;" />
+
 NODE  
 REACT  
 NPM  
