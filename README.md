@@ -11,13 +11,9 @@
 
 <div style="display: flex; align-items: center;">
    
-   <span title="Python">
        <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
-   </span>
 
-   <span title="JavaScript">
        <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" alt="Javascript Logo" width="50" height="50" style="margin-right: 10px;" />
-   </span>
    
    NODE
 
