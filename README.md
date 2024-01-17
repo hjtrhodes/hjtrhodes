@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: center;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
     <img src="https://fontawesome.com/icons/html5?f=brands&s=solid" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
-    <svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" viewBox="0 0 384 512">
+    <svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" viewBox="0 0 384 512"></svg>
       
 </div>
 ---
