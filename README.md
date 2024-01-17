@@ -11,7 +11,8 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" />
+    <img src="https://fontawesome.com/icons/html5?f=brands&s=solid" alt="GitHub Logo" width="50" height="50" style="margin-right: 10px;" />
+      
 </div>
 ---
 
