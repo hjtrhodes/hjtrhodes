@@ -16,13 +16,11 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt=" Node Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="React Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50" style="margin-right: 10px;" />
-<br>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" alt="Postgres Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git Logo" width="50" height="50" style="margin-right: 10px;" />
-<br>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg" alt="Jest Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cypress.svg" alt="Cypress Logo" width="50" height="50" style="margin-right: 10px;" />
