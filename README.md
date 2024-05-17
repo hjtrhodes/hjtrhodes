@@ -11,9 +11,9 @@
 
 <div style="display: flex; align-items: center;">
    
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python Logo" width="50" height="50" style="margin-right: 10px;" />
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp2.svg" alt="CSharp Logo" width="50" height="50" style="margin-right: 10px;" />
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_azure.svg" alt=" Azure Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" alt="Javascript Logo" width="50" height="50" style="margin-right: 10px;" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt=" Node Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="React Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" alt="Postgres Logo" width="50" height="50" style="margin-right: 10px;" />
