@@ -7,7 +7,7 @@
    [My Portfolio](https://hrhodes.co.uk)   |   [Linkedin](https://www.linkedin.com/in/hjtrhodes)   |   [CV](https://docs.google.com/document/d/1WDQ-0gyIWZ4Quz8XPf9fVCJSYeT4G6iH9QUZh5Qx7nI/edit?usp=sharing)
 ---
 
-**💻 Current Languages and Tools**
+/***💻 Current Languages and Tools**
 
 <div style="display: flex; align-items: center;">
    
@@ -26,7 +26,7 @@
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cypress.svg" alt="Cypress Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="50" height="50" style="margin-right: 10px;" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" alt="Express Logo" width="50" height="50" style="margin-right: 10px;" />
-</div>
+</div>*/
 
 ---
 
