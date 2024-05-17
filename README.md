@@ -6,8 +6,8 @@
 
    [My Portfolio](https://hrhodes.co.uk)   |   [Linkedin](https://www.linkedin.com/in/hjtrhodes)   |   [CV](https://docs.google.com/document/d/1WDQ-0gyIWZ4Quz8XPf9fVCJSYeT4G6iH9QUZh5Qx7nI/edit?usp=sharing)
 ---
-
-/***💻 Current Languages and Tools**
+<!-- This is a comment in Markdown -->
+//***💻 Current Languages and Tools**
 
 <div style="display: flex; align-items: center;">
    
