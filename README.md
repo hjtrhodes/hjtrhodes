@@ -3,8 +3,6 @@
 - 👀 My Languages: C#
 - 🌱 My Technologies: .NET, ASP.NET, Azure
 
-- 📫 Feel free to [drop me a message](mailto:hjtrhodes@gmail.com) 😃
-
    [My Portfolio](https://hrhodes.co.uk)   |   [Linkedin](https://www.linkedin.com/in/hjtrhodes)
 
 
