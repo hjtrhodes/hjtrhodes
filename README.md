@@ -3,7 +3,7 @@
 - 👀 My  Main Language: C#
 - 🌱 My Technologies: .NET, ASP.NET, Azure
 
-   [My Portfolio](https://hrhodes.co.uk)   |   [Linkedin](https://www.linkedin.com/in/hjtrhodes)
+[Linkedin](https://www.linkedin.com/in/hjtrhodes)
 
 
 
